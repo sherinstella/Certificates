@@ -1,5 +1,5 @@
 
-<a href="Certificates/Certificate_32864.pdf at main · sherinstella/Certificates"> Master Program Course In Data Analytics</a><br>
+<a href="https://github.com/sherinstella/Certificates/blob/main/Certificate_32864.pdf"> Master Program Course In Data Analytics</a><br>
 <a href="Certificates/Data Analysis Intern certificate.pdf at main · sherinstella/Certificates">Data Analyst Intern Certificate:</a><br>
 <a href="Certificates/POWER BI Intern Certificate.pdf at main · sherinstella/Certificates">Power Bi Intern</a><br>
 <a href="Certificates/ML intern certificate.pdf at main · sherinstella/Certificates">Machine Learning Intern</a><br>
